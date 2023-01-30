@@ -18,7 +18,6 @@ SplashScreen.preventAutoHideAsync();
  * learn more about in the coming weeks!
  */
 function HomeScreen() {
-  /* TODO: insert your code here */
 
   return (
     <SafeAreaView style={styles.container}>
